@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         TOTU Skip
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Automatically close Time Off Task Updated modal
-// @author       Ken-Nall
+// @author       Ken Nall @kennenal (MDW7)
 // @match        https://fclm-portal.amazon.com/employee*
-// @updateURL    https://raw.githubusercontent.com/Ken-Nall/TOTU-Skip/main/totu-skip.user.js
-// @downloadURL  https://raw.githubusercontent.com/Ken-Nall/TOTU-Skip/main/totu-skip.user.js
+// @updateURL    https://axzile.corp.amazon.com/-/carthamus/download_script/totu-skip.user.js
+// @downloadURL  https://axzile.corp.amazon.com/-/carthamus/download_script/totu-skip.user.js
 // @grant        none
 // ==/UserScript==
 
